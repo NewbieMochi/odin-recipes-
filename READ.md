@@ -1,0 +1,1 @@
+Hello this is a reflection on what have i learned so far with Odin, after completing this project I would be demonstrating skill of knowing how to push and pull files from github, navigating command line through directories, create, remove, rename files and directories and surely create a simple text html file 
